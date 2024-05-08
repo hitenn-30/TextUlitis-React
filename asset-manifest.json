@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUlitis-React01/static/css/main.f855e6bc.css",
+    "main.js": "/TextUlitis-React01/static/js/main.e7c4f84c.js",
+    "static/js/453.d85580f4.chunk.js": "/TextUlitis-React01/static/js/453.d85580f4.chunk.js",
+    "index.html": "/TextUlitis-React01/index.html",
+    "main.f855e6bc.css.map": "/TextUlitis-React01/static/css/main.f855e6bc.css.map",
+    "main.e7c4f84c.js.map": "/TextUlitis-React01/static/js/main.e7c4f84c.js.map",
+    "453.d85580f4.chunk.js.map": "/TextUlitis-React01/static/js/453.d85580f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e7c4f84c.js"
+  ]
+}
